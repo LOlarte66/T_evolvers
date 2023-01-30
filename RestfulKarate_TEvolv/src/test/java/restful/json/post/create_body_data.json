@@ -1,0 +1,5 @@
+[
+  { "firstname" : "Jim", "lastname" : "Brown", "totalprice" : 111, "depositpaid" : false, "checkin" : "2018-01-01", "checkout" : "2019-01-01", "additionalneeds" : "Breakfast" }
+, { "firstname" : "Jim2", "lastname" : "Brown", "totalprice" : 11111, "depositpaid" : true, "checkin" : "2018-01-01", "checkout" : "2019-01-01", "additionalneeds" : "Breakfast" }
+
+]

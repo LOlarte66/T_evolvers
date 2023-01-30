@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Buy products" skipped="0" tests="3" time="121.12" timestamp="2023-01-29 07:29:44"><testcase name="Buy products successfully"/><testcase name="Buy products unsuccessfully without payment details"/></testsuite>

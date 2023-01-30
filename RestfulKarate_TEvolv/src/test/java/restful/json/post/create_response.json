@@ -1,0 +1,1 @@
+{ "bookingid": "#number", "booking": { "firstname" : "#(firstname)", "lastname" : "#(lastname)", "totalprice" : "#(totalprice)", "depositpaid" : "#(depositpaid)", "bookingdates" : { "checkin" : "#(checkin)", "checkout" : "#(checkout)" }, "additionalneeds" : "#(additionalneeds)" } }

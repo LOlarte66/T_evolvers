@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buy products","Buy products successfully","SUCCESS","2023-01-29T19:29:44.885-05:00[America/Bogota]","0.0","85.66"
+"Buy products","Buy products unsuccessfully without payment details","SUCCESS","2023-01-29T19:31:10.56-05:00[America/Bogota]","0.0","35.46"
