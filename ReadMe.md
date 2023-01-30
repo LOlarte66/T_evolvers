@@ -12,8 +12,8 @@ Otro archivo: Reportes (se deja evidencia un reporte de cada proyecto)
 
 Objetivo: 
 
-Web: Probar el aseguramiento de la calidad para la pagina Demoblaze enfocado en comprar productos y realizar su pago.
-API: Probar el funcionamiento de las API //1. CreateBooking.// 2. GetBooking.// 3. UpdateBooking. // para la pagina Restful.
+Web: Probar el aseguramiento de la calidad para la página Demoblaze enfocado en comprar productos y realizar su pago.
+API: Probar el funcionamiento de las API //1. CreateBooking.// 2. GetBooking.// 3. UpdateBooking. // para la página Restful.
 
 Stack tecnologico:****************************************************************************************************************************
 
@@ -23,7 +23,7 @@ Stack tecnologico:**************************************************************
 
 -gestor de proyectos: Gradle.
 
--Patron de diseño: Screenplay.
+-Patrón de diseño: Screenplay.
 
 -Herramienta de automatizacion de pruebas: Cucumber con Serenity BDD + Gherkin como lenguaje especifico (Proyecto WEB) // KarateDSL + Cucumber (Proyecto API)
 
